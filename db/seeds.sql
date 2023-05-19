@@ -12,4 +12,4 @@ VALUES (1, "Tops for all occassions."),
         (3, "Seize every moment."),
         (4, "Feeling cold? Look at the latest styles."),
         (5, "From lounging around to standing tall. We have them all."),
-        (6, "Add extra flare with these designs."),
+        (6, "Add extra flare with these designs.");
