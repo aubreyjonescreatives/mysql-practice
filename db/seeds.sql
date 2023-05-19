@@ -6,7 +6,7 @@ VALUES ("Tops"),
         ("Shoes"),
         ("Accessories");
 
-INSERT INTO titleItem (clothing_id, titleItem)
+INSERT INTO titleItems (clothing_id, titleItem)
 VALUES (1, "Tops for all occassions."),
         (2, "Find fitting Bottoms for everyone."),
         (3, "Seize every moment."),
