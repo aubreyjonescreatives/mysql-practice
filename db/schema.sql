@@ -8,10 +8,10 @@ CREATE TABLE clothing (
     clothing_title VARCHAR(100) NOT NULL
 );
 
-CREATE TABLE titleItemS (
+CREATE TABLE clothingDescriptions (
     id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
     clothing_id INT,
-    titleItem TEXT NOT NULL,
+    clothingDescription TEXT NOT NULL,
     FOREIGN KEY (clothing_id)
     REFERENCES clothing(id)
     ON DELETE SET NULL
