@@ -1,0 +1,25 @@
+{
+  "name": "mysql-practice",
+  "version": "1.0.0",
+  "description": "mySQL e-commerce database example",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aubreyjonescreatives/mysql-practice.git"
+  },
+  "keywords": [
+    "mysql",
+    "database",
+    "ecommerce"
+  ],
+  "author": "Aubrey Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aubreyjonescreatives/mysql-practice/issues"
+  },
+  "homepage": "https://github.com/aubreyjonescreatives/mysql-practice#readme"
+}
