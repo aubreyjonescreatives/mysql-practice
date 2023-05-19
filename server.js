@@ -1,6 +1,12 @@
-const express = require('express');
+import express from 'express';
 
-const mysql = require('mysql2'); 
+import mysql from 'mysql2'; 
+import * as dotenv from 'dotenv'; 
+
+
+
+
+dotenv.config()
 
 const MYSQLP = process.env.MYSQL_PASSWORD; 
 
